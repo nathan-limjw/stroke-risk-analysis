@@ -8,7 +8,7 @@ This project aims to build a predictive model to assess the likelihood of the on
 
 ## Data Information
 
-The original data was obtained from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset). In order to simulate real-world data issues, the dataset has been purposefully augmented to include formatting inconsistencies, missing values, duplicate entries as well as invalid values. The augmented dataset can be viewed [here](../data/stroke_dataset_messy.csv).
+The original data was obtained from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset). In order to simulate real-world data issues, the dataset has been purposefully augmented to include formatting inconsistencies, missing values, duplicate entries as well as invalid values. The augmented dataset can be viewed [here](data/stroke_dataset_messy.csv).
 
 ## Workflow
 
